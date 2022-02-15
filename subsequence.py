@@ -1,4 +1,4 @@
-#print subsets using recursion
+#print subsequence using recursion
 #example for "ab":" ","a","b","ab"
 
 lst = []
