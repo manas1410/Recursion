@@ -5,6 +5,8 @@ Output:
 111
 110
 101
+
+problem url: https://practice.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-more-1s-than-0s0252/1
 '''
 
 def solve(o,z,op,n):
